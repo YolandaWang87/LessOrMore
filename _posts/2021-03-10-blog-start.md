@@ -2,7 +2,7 @@
 layout: post
 title:  blog-start
 date:   2021-03-10 00:00:00 +0800
-categories: document
+categories: test
 tag: start
 ---
 
