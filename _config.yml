@@ -1,13 +1,13 @@
 # Site settings
-name: Yolanda's Blog
+name: Go, Xiaoyi
 email: yolandawang87@gmail.com
 author: Yolanda Wang
 url: #''
 resume_site: #http://www.hifreud.com/Resume.io/
 github: https://github.com/YolandaWang87/
 baseurl: "/LessOrMore"
-description: Less is more
-meta_description: Yolanda's Blog & Archive
+description: Xiaoyi(Yolanda)'s Study Blog
+meta_description: Xiaoyi(Yolanda)'s Study Blog
 motto: Learn how to better learn
 banner: Thinking is fascinating
 
