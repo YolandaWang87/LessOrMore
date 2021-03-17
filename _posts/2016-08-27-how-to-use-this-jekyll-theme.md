@@ -55,6 +55,9 @@ FB:
     disqus :
         short_name : Disqus账户
 ```
+```matlab
+clear
+```
 
 如何写文章							{#How-to-write-document}
 ------------------------------------
