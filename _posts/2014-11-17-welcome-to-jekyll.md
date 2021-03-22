@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-11-17 13:31:01 +0800
-categories: jekyll
-tag: jekyll
+title:  "Reading .dat File"
+date:   2021-03-22 13:31:01 +0800
+categories: 
+tag: Matlab
 ---
 
 * content
@@ -13,18 +13,27 @@ tag: jekyll
 First POST build by Jekyll.
 
 
-诫子书				{#zhugeliang}
+Table of File Format	{#functions}
 ------------------------
 
-![诫子书]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
+![Table of File Format]({{ '/styles/images/20210322_01.png' | prepend: site.baseurl  }})
 
 
-[诸葛亮](#)
+[functions](#)
 
+## .txt file and .dat file
+A text file = data can be interpreted as characters (letters, numbers, symbols).
+A "binary" data file = data can not always be interpreted as something printable on screen.
 
-夫君子之行，静以修身，俭以养德。非淡泊(澹泊)无以明志，非宁静无以致远。夫学须静也，才须学也。非学无以广才，非志无以成学。淫慢则不能励精，险躁则不能冶性。
-年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！
+## .xls file and .csv file
+XLS file format is an Excel Sheets binary file format which holds information about all the worksheets in a file, including both content and formatting.
+While Excel (XLS and XLSX) file formats are better for storing more complex data, CSV files are supported by nearly all data upload interfaces.
 
+<br>
+
+Reference:
+['Difference between .txt & .dat file'](http://www.cplusplus.com/forum/beginner/75273/)
+['Difference Between CSV and XLS'](https://toggl.com/track/difference-between-csv-xls/)
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
