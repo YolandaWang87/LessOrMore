@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading .dat File"
-date:   2021-03-22 13:31:01 +0800
+date:   2021-03-22 00:00:00 +0800
 categories: 
 tag: Matlab
 ---

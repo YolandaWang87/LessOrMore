@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  如何使用LessOrMore这个Jekyll模版
-date:   2016-08-27 01:08:00 +0800
-categories: document
-tag: [start, multi]
+title:  How to use LessOrMore jekyll theme
+date:   2021-03-01 01:08:00 +0800
+categories: 
+tag: jekyll
 ---
 
 * content
