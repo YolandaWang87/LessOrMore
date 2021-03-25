@@ -3,7 +3,7 @@ layout: post
 title:  How to use LessOrMore jekyll theme
 date:   2021-03-01 01:08:00 +0800
 categories: 
-tag: jekyll
+tag: Jekyll
 ---
 
 * content

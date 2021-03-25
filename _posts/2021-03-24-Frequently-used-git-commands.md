@@ -15,6 +15,7 @@ git clone repositoryPathUsingSSH
 ```
 ### Upon new modification
 ```
+git add -A
 git commit -am 'message'
 git push
 ```
