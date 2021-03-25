@@ -1,0 +1,29 @@
+I"x<ul id="markdown-toc">
+  <li><a href="#functions" id="markdown-toc-functions">Table of File Format</a></li>
+  <li><a href="#txt-file-and-dat-file" id="markdown-toc-txt-file-and-dat-file">.txt file and .dat file</a></li>
+  <li><a href="#xls-file-and-csv-file" id="markdown-toc-xls-file-and-csv-file">.xls file and .csv file</a></li>
+</ul>
+
+<p>First POST build by Jekyll.</p>
+
+<h2 id="functions">Table of File Format</h2>
+
+<p><img src="/LessOrMore/styles/images/20210322_01.png" alt="Table of File Format" /></p>
+
+<p><a href="#">functions</a></p>
+
+<h2 id="txt-file-and-dat-file">.txt file and .dat file</h2>
+<p>A text file = data can be interpreted as characters (letters, numbers, symbols).
+A “binary” data file = data can not always be interpreted as something printable on screen.</p>
+
+<h2 id="xls-file-and-csv-file">.xls file and .csv file</h2>
+<p>XLS file format is an Excel Sheets binary file format which holds information about all the worksheets in a file, including both content and formatting.
+While Excel (XLS and XLSX) file formats are better for storing more complex data, CSV files are supported by nearly all data upload interfaces.</p>
+
+<p><br /></p>
+
+<p>Reference:
+<a href="http://www.cplusplus.com/forum/beginner/75273/">‘Difference between .txt &amp; .dat file’</a>
+<a href="https://toggl.com/track/difference-between-csv-xls/">‘Difference Between CSV and XLS’</a></p>
+
+:ET

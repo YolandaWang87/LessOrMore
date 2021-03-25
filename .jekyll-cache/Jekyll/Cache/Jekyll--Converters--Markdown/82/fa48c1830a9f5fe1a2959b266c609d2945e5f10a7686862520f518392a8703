@@ -1,0 +1,21 @@
+I"{<p>First, create ssh key and copy public key to Github</p>
+<hr />
+
+<h3 id="clone-repository-to-local">Clone repository to local</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rm -rf prevGitDir
+git clone repositoryPathUsingSSH
+</code></pre></div></div>
+<h3 id="upon-new-modification">Upon new modification</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit -am 'message'
+git push
+</code></pre></div></div>
+<h3 id="change-to-another-remote-branch">Change to another remote branch</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git fetch
+git checkout newBranch
+</code></pre></div></div>
+<h3 id="regular-check">Regular check</h3>
+<pre><code class="language-angular2html">git status
+git branch
+</code></pre>
+
+:ET
