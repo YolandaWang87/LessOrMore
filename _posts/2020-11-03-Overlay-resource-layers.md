@@ -13,8 +13,10 @@ tag: ArcGIS
 [comment]: <> (Processing Flow				{#flow})
 
 [comment]: <> (====================================)
+### Processing Flow    {#flow}
 ![Flow Chart]({{ '/styles/images/20201103_01.png' | prepend: site.baseurl  }})
-
-![Result Map]({{ '/styles/images/20201103_02.png' | prepend: site.baseurl  }})
+<br>
+### Result Map  {#map} 
+![Result Map]({{ '/styles/images/20201103_02.jpg' | prepend: site.baseurl  }})
 
 
