@@ -18,5 +18,5 @@ tag: ArcGIS
 <br>
 ### Result Map  {#map} 
 ![Result Map]({{ '/styles/images/20201103_02.jpg' | prepend: site.baseurl  }})
-
+Scheme of map layout is from Jeeah Kang
 
