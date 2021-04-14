@@ -1,16 +1,12 @@
 ---
 layout: post
-title:  Setting working directory
+title:  Elevation vector to contour matrice
 date:   2021-04-12 00:00:00 +0800
 categories: 
-tag: Matlab
+tag: [Matlab, ArcGIS]
 ---
 
-* content
-{:toc}
-
-
-Processing steps		  {#contour}
+### Processing steps		  {#contour}
 ====================================
 1. Making vector of x and y:
    * xv = min(ori_x):max(ori_x);
@@ -26,10 +22,13 @@ Processing steps		  {#contour}
 4. Mask away land area
    * boundary(x, y, shrink), might not generate the most precise boundary
    * vertex-to-points tool in ArcGIS will generate precise boundary but too many points; might consider to thin
+   <br>
+5. Contour plot
+   * [C,h]=contour(X,Y,levels)
+   * clabel(C, h, property-pair)
+   * might need to use m_map function
 
 
-Reference:
-<br>
-['ls() When invoked with no argument at the top level prompt, ls shows what data sets and functions a user has defined.'](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/ls)
+Reference: ['Contour plot using three vectors'](https://www.mathworks.com/matlabcentral/answers/490616-contour-plot-using-three-vectors)
 
 
